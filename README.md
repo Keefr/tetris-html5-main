@@ -25,7 +25,7 @@ Just press **a** on your keyboard and enjoy the screensaver-esque thing. After i
 
 Gamepad API
 ---
-You got a PS3 or XBOX? Connect the controller to your computer and try it in your favorite browser. There is an [experimental API](http://www.w3.org/TR/2014/WD-gamepad-20140225/) for game controllers in modern browsers, which works pretty well after some hacking. Just activate it in the Tetris edit menu and enjoy - I didn't play tetris on a gamepad as well, but it's cool.
+You got a PS3 or XBOX? Connect the controller to your computer and try it in your favorite browser. There is an [experimental API](http://www.w3.org/TR/2014/WD-gamepad-20140225/) for game controllers in modern browsers, which works pretty well after some hacking. Just activate it in the Tetris edit menu and enjoy - I did not play tetris on a gamepad as well, but it's cool.
 
 
 Tetris Tiles
